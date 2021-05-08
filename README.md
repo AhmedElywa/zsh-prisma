@@ -54,7 +54,7 @@ plugins=(… prisma)
 | `prisma studio`          |
 | `prisma format`          |
 
-| Railway Options   |
+| Prisma Options   |
 | :---------------- |
 | -h --help         |
 | -v --version      |
