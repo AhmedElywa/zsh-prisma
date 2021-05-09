@@ -4,7 +4,7 @@ The Prisma plugin provides some [completions](#completions) for [Prisma CLI](htt
 
 #### [antigen](https://github.com/zsh-users/antigen)
 
-Add `antigen bundle AhmedElywa/zsh-prisma` to your `~/.zshrc`.
+Add `antigen bundle AhmedElywa/zsh-prisma --branch=main` to your `~/.zshrc`.
 
 #### [oh-my-zsh](http://github.com/robbyrussell/oh-my-zsh)
 
